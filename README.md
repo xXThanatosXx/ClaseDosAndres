@@ -21,5 +21,15 @@ def hola_mundo():
 | Texto 1      | Texto 2      | Texto 3      |
 | Texto 4      | Texto 5      | Texto 6      |
 
+
+## Imágenes
+
+<p align="center">
+<img src="./Logos/logo.jpeg" height="100">
+</p>
+
+
 ## Refeencias
 [Google](https://www.google.com)
+
+
